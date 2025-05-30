@@ -1,5 +1,3 @@
-Hi, I’m @RSXEnthusiast.
+Hi, I’m Joel, @RSXEnthusiast on here, and @JoelKalich on YouTube.
 
-I’m interested in software development and engineering, I'm best in Java development and really enjoy Android development.
-
-I’m currently learning JavaScript and quite enjoying it.
+I'm a professional Automation Engineer and I spend days making tools I can use to save minutes every day.
